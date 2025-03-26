@@ -1,5 +1,5 @@
 # 💫 About Me:
- - 👋 Hi, I’m @bhinav-a<br>- 👀 I’m interested in Coding<br>- 🌱 I’m currently learning Full stack web development and ML.<br>- 📫 You can mail me : anuragabhinav08@gmail.com
+ - 👋 Hi, I’m Abhinav Anurag<br>- 👀 I’m interested in Coding<br>- 🌱 I’m currently learning Full stack web development and ML.<br>- 📫 You can mail me : anuragabhinav08@gmail.com
 
 
 ## 🌐 Socials:
